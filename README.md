@@ -18,6 +18,7 @@ GTA 5 Vehicle Market Tracker is a tool for tracking prices and availability of v
 
 
 
+
 ❌ COMPLEX METHOD (For Developers Only)
 1. Clone the repository:
 git clone https://github.com/pammellale/GTA-5-Vehicle-Market-Tracker.git
